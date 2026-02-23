@@ -732,6 +732,42 @@ footer.sticky-bottom {
       .preview {
       }
 
+      .publication-card {
+        width: 100%;
+        background-color: var(--global-card-bg-color);
+        border: none;
+        border-radius: 8px;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+        padding: 1.15rem 0.9rem;
+        overflow: hidden;
+      }
+
+      .publication-item-row {
+        margin: 0;
+        align-items: stretch;
+      }
+
+      .pub-media {
+        padding: 0;
+        margin-bottom: 0;
+        display: flex;
+        align-items: stretch;
+        overflow: hidden;
+      }
+
+      .pub-content {
+        padding: 0.7rem 1rem;
+      }
+
+      .pub-media .preview {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        border-radius: 6px !important;
+        margin: 0 !important;
+      }
+
       .abbr {
         margin-bottom: 0.5rem;
 
@@ -860,6 +896,12 @@ footer.sticky-bottom {
 
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
+      }
+
+      @media (max-width: 575px) {
+        .pub-media .preview {
+          max-height: 300px;
+        }
       }
     }
     div.award.hidden {
