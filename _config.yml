@@ -235,6 +235,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  sort_by: year, archive_date
+  order: descending, descending
   group_by: year
   group_order: descending
 
@@ -254,6 +256,7 @@ filtered_bibtex_keywords:
     additional_info,
     altmetric,
     annotation,
+    archive_date,
     arxiv,
     award,
     award_name,
