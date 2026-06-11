@@ -32,3 +32,37 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"cha":
+  - firstname: ["Hyunsoo"]
+    url: https://hyunsoocha.github.io/
+
+"choi":
+  - firstname: ["Mingi"]
+    url: https://willi19.github.io/
+
+"han":
+  - firstname: ["Sookwan"]
+    url: https://jellyheadandrew.github.io/
+
+"joo":
+  - firstname: ["Hanbyul"]
+    url: https://jhugestar.github.io/
+
+"kim":
+  - firstname: ["Byungjun"]
+    url: https://bjkim95.github.io/
+  - firstname: ["Jeonghwan"]
+    url: https://canoneod.github.io/
+  - firstname: ["Jisoo"]
+    url: https://jlogkim.github.io/
+
+"lee":
+  - firstname: ["Inhee"]
+    url: https://sulwon-0516.github.io/
+  - firstname: ["Junyoung"]
+    url: https://junc0ng.github.io/
+
+"woo":
+  - firstname: ["Wonjung"]
+    url: https://wonjungwoo.github.io/
