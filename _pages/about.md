@@ -20,4 +20,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am an undergraduate student in the Department of Computer Science at KAIST, and a research intern at Visual Computing Lab, led by [Prof. Hanbyul Joo](https://jhugestar.github.io/). My research interests lie in the fields of computer vision and computer graphics.
+I am an integrated M.S./Ph.D. student in the Department of Computer Science at Seoul National University, advised by [Prof. Hanbyul Joo](https://jhugestar.github.io/). My research interests lie in computer vision and human motion.
